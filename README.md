@@ -7,7 +7,7 @@
 
 #INSTRUCTIONS : please write the correct spellings of the pokemon with the first letter being a capital letter and again its only from gen 1-6 , there i no sun and moon or sowrd and shield etc.
 
-#my approach at first was to jsut do basic logistic regression but that proved to be difficult without the trianing data for results of battles, so i used the officil poke score formula to create my own training data for this.
+#my approach at first was to just do basic logistic regression but that proved to be difficult without the training data for results of battles, so i used the official poke score formula to create my own training data for this.
 
 #algorithm:
 # The algorithm simulates battles between random pairs of Pokémon from the dataset to generate training data.
